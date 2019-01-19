@@ -10,4 +10,7 @@ public class Calculator {
         double result=num1-num2;
         return result;
     }
+    public static double multiple(double num1,double num2){
+    return num1*num2;
+    }
 }
