@@ -15,9 +15,10 @@ public class Calculator {
     return num1*num2;
     }
     public static double division(double num1,double num2){
-
+double division;
         if(num2!=0){
-            return num1/num2;
+            devision = num1/num2;
+            return division;
         }else{
             return -1;
         }
