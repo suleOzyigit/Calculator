@@ -23,5 +23,4 @@ double result;
             return -1;
         }
     }
-
 }
